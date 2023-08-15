@@ -1,0 +1,209 @@
+{
+  "output": [
+    {
+      "timestamp": "23-01-05T12:08:52Z",
+      "message": {
+        "level": "info",
+        "s": "wideco/svinbound",
+        "m": "ImportDataPointReport",
+        "pn": "wideco",
+        "lid": "Lejonfastigheter Djurgardsgatan 17",
+        "pst": "provisioned",
+        "body": {
+          "c": 5,
+          "dp": {
+            "IDT_01": {
+              "rid": "16675;PT=0",
+              "v": 25.0,
+              "ts": "23-01-05T12:25:55Z"
+            },
+            "IDT_02": {
+              "rid": "16676;PT=0",
+              "v": 25.7,
+              "ts": "23-01-06T09:17:38Z"
+            },
+            "IDT_03": {
+              "rid": "16677;PT=0",
+              "v": 26.4,
+              "ts": "23-01-07T09:49:19Z"
+            },
+            "IDT_04": {
+              "rid": "16678;PT=0",
+              "v": 27.1,
+              "ts": "23-01-08T09:01:54Z"
+            },
+            "IDT_05": {
+              "rid": "16679;PT=0",
+              "v": 27.8,
+              "ts": "23-01-05T12:24:53Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "23-01-08T12:39:00Z",
+      "message": {
+        "level": "info",
+        "s": "wideco/svinbound",
+        "m": "ImportDataPointReport",
+        "pn": "wideco",
+        "lid": "Lejonfastigheter Djurgardsgatan 17",
+        "pst": "provisioned",
+        "body": {
+          "c": 5,
+          "dp": {
+            "IDT_01": {
+              "rid": "16675;PT=0",
+              "v": 25.0,
+              "ts": "23-01-09T06:36:53Z"
+            },
+            "IDT_02": {
+              "rid": "16676;PT=0",
+              "v": 25.7,
+              "ts": "23-01-09T09:17:28Z"
+            },
+            "IDT_03": {
+              "rid": "16677;PT=0",
+              "v": 26.4,
+              "ts": "23-01-11T11:19:37Z"
+            },
+            "IDT_04": {
+              "rid": "16678;PT=0",
+              "v": 27.1,
+              "ts": "23-01-12T06:10:12Z"
+            },
+            "IDT_05": {
+              "rid": "16679;PT=0",
+              "v": 27.8,
+              "ts": "23-01-11T12:40:20Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "23-01-09T08:47:41Z",
+      "message": {
+        "level": "info",
+        "s": "wideco/svinbound",
+        "m": "ImportDataPointReport",
+        "pn": "wideco",
+        "lid": "Lejonfastigheter Djurgardsgatan 17",
+        "pst": "provisioned",
+        "body": {
+          "c": 5,
+          "dp": {
+            "IDT_01": {
+              "rid": "16675;PT=0",
+              "v": 25.0,
+              "ts": "23-01-13T10:56:32Z"
+            },
+            "IDT_02": {
+              "rid": "16676;PT=0",
+              "v": 25.7,
+              "ts": "23-01-10T10:53:22Z"
+            },
+            "IDT_03": {
+              "rid": "16677;PT=0",
+              "v": 26.4,
+              "ts": "23-01-12T11:16:55Z"
+            },
+            "IDT_04": {
+              "rid": "16678;PT=0",
+              "v": 27.1,
+              "ts": "23-01-10T09:17:01Z"
+            },
+            "IDT_05": {
+              "rid": "16679;PT=0",
+              "v": 27.8,
+              "ts": "23-01-11T08:30:55Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "23-01-05T11:22:56Z",
+      "message": {
+        "level": "info",
+        "s": "wideco/svinbound",
+        "m": "ImportDataPointReport",
+        "pn": "wideco",
+        "lid": "Lejonfastigheter Djurgardsgatan 17",
+        "pst": "provisioned",
+        "body": {
+          "c": 5,
+          "dp": {
+            "IDT_01": {
+              "rid": "16675;PT=0",
+              "v": 25.0,
+              "ts": "23-01-09T11:44:41Z"
+            },
+            "IDT_02": {
+              "rid": "16676;PT=0",
+              "v": 25.7,
+              "ts": "23-01-09T12:45:04Z"
+            },
+            "IDT_03": {
+              "rid": "16677;PT=0",
+              "v": 26.4,
+              "ts": "23-01-07T08:43:47Z"
+            },
+            "IDT_04": {
+              "rid": "16678;PT=0",
+              "v": 27.1,
+              "ts": "23-01-08T11:28:36Z"
+            },
+            "IDT_05": {
+              "rid": "16679;PT=0",
+              "v": 27.8,
+              "ts": "23-01-05T12:55:58Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "23-01-08T11:34:21Z",
+      "message": {
+        "level": "info",
+        "s": "wideco/svinbound",
+        "m": "ImportDataPointReport",
+        "pn": "wideco",
+        "lid": "Lejonfastigheter Djurgardsgatan 17",
+        "pst": "provisioned",
+        "body": {
+          "c": 5,
+          "dp": {
+            "IDT_01": {
+              "rid": "16675;PT=0",
+              "v": 25.0,
+              "ts": "23-01-10T08:43:58Z"
+            },
+            "IDT_02": {
+              "rid": "16676;PT=0",
+              "v": 25.7,
+              "ts": "23-01-10T11:43:20Z"
+            },
+            "IDT_03": {
+              "rid": "16677;PT=0",
+              "v": 26.4,
+              "ts": "23-01-11T06:56:49Z"
+            },
+            "IDT_04": {
+              "rid": "16678;PT=0",
+              "v": 27.1,
+              "ts": "23-01-11T09:18:46Z"
+            },
+            "IDT_05": {
+              "rid": "16679;PT=0",
+              "v": 27.8,
+              "ts": "23-01-11T08:55:20Z"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
